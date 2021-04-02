@@ -215,7 +215,7 @@ footer p a:hover {
     #laptop {
         grid-template-rows: none;
         grid-template-columns: 1fr 1fr;
-        margin-top: 100px;
+        margin-top: 200px;
         margin-bottom: 50px;
     
     }
