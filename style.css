@@ -79,7 +79,7 @@ a:hover {
 
 
 h1 {
-   margin-bottom: 15px;
+    margin-bottom: 15px;
 }
 
 .button-info {
@@ -94,14 +94,15 @@ h1 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 1rem;
     font-weight: 600;
-
+    
 }
 
 .content-text {
     display: grid;
     grid-template-rows: 1fr 60%;
     padding: 10%;
-   
+    text-align: justify;
+    
 }
 
 
@@ -138,6 +139,8 @@ h3 {
     margin-top: 20px;
     color: #fff;
     text-align: center;
+    text-align: justify;
+    padding: 0 15px;
 }
 
 #laptop {
